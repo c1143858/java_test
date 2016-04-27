@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>どこつぶ</title>
+<title>どこつぶ_変更1</title>
 </head>
 <body>
 <h1>どこつぶへようこそ</h1>
